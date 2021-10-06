@@ -21,7 +21,7 @@ hr {
 }
 
 .container-center {
-    max-width: 600px;
+    max-width: 750px;
     margin: auto;
 }
 
@@ -143,3 +143,7 @@ hr {
     font-size: large;
 }
 
+/** blogs **/
+.article-blog {
+    padding-bottom: 5rem;
+}
